@@ -1,0 +1,1 @@
+rootProject.name = "com.sample.coderade.ktor-sample-project"
